@@ -8,7 +8,7 @@ import @nomiclabs/hardhat-etherscan inside hardhat.config.js
 create .env file and store your polygonscan api-key, wallet private key, moralis speedy-node url in it.
 export your .env variables from hardhat.config.js
 
-deployment in terminal:
-npx hardhat clean
-npx hardhat compile
-npx hardhat run scripts/deployDAO.js --network mumbai
+Deployment in terminal:
+    npx hardhat clean                                      |
+    npx hardhat compile                                    |  => Compiled 1 Solidity file successfully
+    npx hardhat run scripts/deployDAO.js --network mumbai  |  => DAO deployed to: 0xBd2D346c47DAeC0ED28Bd3B5164043eff49e97B7
