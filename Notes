@@ -1,4 +1,4 @@
-Install next js
+Install Next.js
 Create smartcontracts subfolder and Install hardhat with simple template + @nomiclabs/hardhat-etherscan in it for verification on etherscan/ polygonscan.
 
 make your contract.sol file inside of contracts folder
